@@ -18,3 +18,7 @@ trim_trailing_whitespace = false
 insert_final_newline = true
 indent_style = space
 indent_size = 4
+
+
+
+![Ruby Gem](https://github.com/crystal1317/github-slideshow/workflows/Ruby%20Gem/badge.svg?branch=crystal1317-patch-1&event=check_run)
